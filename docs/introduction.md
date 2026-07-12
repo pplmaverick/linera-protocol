@@ -22,9 +22,9 @@ scripts) at <https://github.com/linera-io/linera-artifacts>.
 > **NEW: Publish and test your Web3 application on the Linera Testnet!**
 >
 > Install
-> [the Linera CLI tool](developers/getting_started/installation.html#installing-from-cratesio)
+> [the Linera CLI tool](developers/getting_started/installation.md#installing-from-cratesio)
 > then follow the instructions on
-> [this page](developers/getting_started/hello_linera.html#using-the-testnet) to
+> [this page](developers/getting_started/hello_linera.md#creating-a-wallet-on-the-latest-testnet) to
 > claim a microchain and publish your first application on the current Testnet.
 
 To join our community and get involved in the development of the Linera
