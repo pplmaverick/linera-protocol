@@ -27,7 +27,7 @@ linera wallet request-chain --faucet $FAUCET_URL
 ```
 
 where `$FAUCET_URL` represents the URL of the network's faucet (see
-[previous section](../getting_started/hello_linera.html))
+[previous section](../getting_started/hello_linera.md)
 
 ## Selecting a wallet
 
